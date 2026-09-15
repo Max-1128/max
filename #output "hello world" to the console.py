@@ -1,2 +1,2 @@
-#output "hello world" to the console
+#output "Hello world" to the console          
 print ("Hello world")
